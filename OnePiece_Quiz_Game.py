@@ -1,6 +1,6 @@
 #@MuaCodez30
 
-print("Welcome to the One Piece Manga quiz!")
+print("Welcome to the One Piece quiz!")
 
 playing = input("Would you like to play? ")
 
